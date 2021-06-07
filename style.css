@@ -254,3 +254,11 @@ body {
 .input-cell.left-cell-selected {
   border-left: none;
 }
+
+/*this is for selector on color fill and text color*/
+.fill-background-selector,
+.text-color-selector {
+  width: 22px;
+  background-color: #f1f1f1;
+  border: none;
+}
